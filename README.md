@@ -1,0 +1,1 @@
+Please consider anything in this repository exploritory programming by an inexperienced programmer. *Assume your computer will explode, killing everyone in the room*.
